@@ -5,3 +5,4 @@ This repo holds config files related to machine: groupe-db
 ### Config Files
 
 - Sudoers
+- Hosts
